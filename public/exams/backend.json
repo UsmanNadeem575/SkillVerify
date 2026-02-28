@@ -1,0 +1,226 @@
+{
+  "role": "Backend Developer",
+  "duration": 45,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which HTTP method is used to update a resource completely?",
+      "options": [
+        { "text": "POST", "value": "a" },
+        { "text": "PUT", "value": "b" },
+        { "text": "PATCH", "value": "c" },
+        { "text": "GET", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 2,
+      "text": "Which SQL statement is used to extract data from a database?",
+      "options": [
+        { "text": "GET", "value": "a" },
+        { "text": "SELECT", "value": "b" },
+        { "text": "EXTRACT", "value": "c" },
+        { "text": "FETCH", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 3,
+      "text": "Which of the following is not a type of JOIN in SQL?",
+      "options": [
+        { "text": "INNER JOIN", "value": "a" },
+        { "text": "OUTER JOIN", "value": "b" },
+        { "text": "SIDE JOIN", "value": "c" },
+        { "text": "CROSS JOIN", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 4,
+      "text": "What is the main purpose of an API in backend development?",
+      "options": [
+        { "text": "To create frontend components", "value": "a" },
+        { "text": "To allow communication between different software", "value": "b" },
+        { "text": "To style the UI", "value": "c" },
+        { "text": "To store static files", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 5,
+      "text": "Which of the following is a NoSQL database?",
+      "options": [
+        { "text": "MySQL", "value": "a" },
+        { "text": "MongoDB", "value": "b" },
+        { "text": "PostgreSQL", "value": "c" },
+        { "text": "SQLite", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 6,
+      "text": "Which HTTP status code indicates a successful request?",
+      "options": [
+        { "text": "200", "value": "a" },
+        { "text": "400", "value": "b" },
+        { "text": "404", "value": "c" },
+        { "text": "500", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 7,
+      "text": "Which of the following is used to prevent SQL Injection?",
+      "options": [
+        { "text": "String concatenation", "value": "a" },
+        { "text": "Prepared statements", "value": "b" },
+        { "text": "Dynamic SQL queries", "value": "c" },
+        { "text": "Direct user input in queries", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 8,
+      "text": "In REST API design, which HTTP method is idempotent?",
+      "options": [
+        { "text": "POST", "value": "a" },
+        { "text": "PUT", "value": "b" },
+        { "text": "PATCH", "value": "c" },
+        { "text": "CONNECT", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 9,
+      "text": "Which backend language is interpreted at runtime?",
+      "options": [
+        { "text": "C++", "value": "a" },
+        { "text": "Python", "value": "b" },
+        { "text": "Java", "value": "c" },
+        { "text": "Go", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 10,
+      "text": "What is a primary key in a database?",
+      "options": [
+        { "text": "A field that can contain duplicate values", "value": "a" },
+        { "text": "A field used to uniquely identify records", "value": "b" },
+        { "text": "A foreign reference key", "value": "c" },
+        { "text": "A non-essential field", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 11,
+      "text": "Which of the following is a type of server-side session storage?",
+      "options": [
+        { "text": "Cookies", "value": "a" },
+        { "text": "LocalStorage", "value": "b" },
+        { "text": "In-memory server store", "value": "c" },
+        { "text": "HTML elements", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 12,
+      "text": "Which of these is a correct way to ensure backend security?",
+      "options": [
+        { "text": "Validate user input", "value": "a" },
+        { "text": "Store passwords in plain text", "value": "b" },
+        { "text": "Disable HTTPS", "value": "c" },
+        { "text": "Expose internal APIs publicly", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 13,
+      "text": "Which of the following is true about REST architecture?",
+      "options": [
+        { "text": "It is stateful", "value": "a" },
+        { "text": "It is stateless", "value": "b" },
+        { "text": "It always uses SOAP", "value": "c" },
+        { "text": "It requires a database", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 14,
+      "text": "Which of the following is used for caching in backend systems?",
+      "options": [
+        { "text": "Redis", "value": "a" },
+        { "text": "MySQL", "value": "b" },
+        { "text": "MongoDB", "value": "c" },
+        { "text": "PostgreSQL", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 15,
+      "text": "Which HTTP header is commonly used to authenticate API requests?",
+      "options": [
+        { "text": "Content-Type", "value": "a" },
+        { "text": "Authorization", "value": "b" },
+        { "text": "Accept", "value": "c" },
+        { "text": "Cache-Control", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 16,
+      "text": "What is the difference between synchronous and asynchronous programming?",
+      "options": [
+        { "text": "Synchronous runs in parallel", "value": "a" },
+        { "text": "Asynchronous allows non-blocking execution", "value": "b" },
+        { "text": "Synchronous is always faster", "value": "c" },
+        { "text": "Asynchronous does not use CPU", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 17,
+      "text": "Which command is used to check running processes in Linux?",
+      "options": [
+        { "text": "ls", "value": "a" },
+        { "text": "ps", "value": "b" },
+        { "text": "cd", "value": "c" },
+        { "text": "topology", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is an advantage of indexing in databases?",
+      "options": [
+        { "text": "Faster search queries", "value": "a" },
+        { "text": "Slower queries", "value": "b" },
+        { "text": "Increases storage space only", "value": "c" },
+        { "text": "Prevents data insertion", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 19,
+      "text": "Which of these is used for version control in backend projects?",
+      "options": [
+        { "text": "Git", "value": "a" },
+        { "text": "Docker", "value": "b" },
+        { "text": "Nginx", "value": "c" },
+        { "text": "Redis", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 20,
+      "text": "What is the purpose of load balancing in backend systems?",
+      "options": [
+        { "text": "To distribute requests across multiple servers", "value": "a" },
+        { "text": "To increase database size", "value": "b" },
+        { "text": "To encrypt data", "value": "c" },
+        { "text": "To compress images", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    }
+  ]
+}

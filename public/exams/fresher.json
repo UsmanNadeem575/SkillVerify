@@ -1,0 +1,226 @@
+{
+  "role": "Fresher",
+  "duration": 45,
+  "questions": [
+    {
+      "id": 1,
+      "text": "Which data structure uses FIFO principle?",
+      "options": [
+        { "text": "Stack", "value": "a" },
+        { "text": "Queue", "value": "b" },
+        { "text": "Tree", "value": "c" },
+        { "text": "Graph", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 2,
+      "text": "What does SQL stand for?",
+      "options": [
+        { "text": "Structured Query Language", "value": "a" },
+        { "text": "Simple Query Language", "value": "b" },
+        { "text": "Sequential Query Language", "value": "c" },
+        { "text": "Structured Question Language", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 3,
+      "text": "Which of the following is not a programming paradigm?",
+      "options": [
+        { "text": "Object-Oriented Programming", "value": "a" },
+        { "text": "Functional Programming", "value": "b" },
+        { "text": "Procedural Programming", "value": "c" },
+        { "text": "Structured Query Language", "value": "d" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 4,
+      "text": "In OOP, which feature allows the same function to have different behaviors?",
+      "options": [
+        { "text": "Encapsulation", "value": "a" },
+        { "text": "Polymorphism", "value": "b" },
+        { "text": "Inheritance", "value": "c" },
+        { "text": "Abstraction", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 5,
+      "text": "Which layer of the OSI model is responsible for routing?",
+      "options": [
+        { "text": "Transport", "value": "a" },
+        { "text": "Network", "value": "b" },
+        { "text": "Data Link", "value": "c" },
+        { "text": "Session", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 6,
+      "text": "Which sorting algorithm has the best average-case performance?",
+      "options": [
+        { "text": "Bubble Sort", "value": "a" },
+        { "text": "Insertion Sort", "value": "b" },
+        { "text": "Merge Sort", "value": "c" },
+        { "text": "Selection Sort", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 7,
+      "text": "Which HTTP status code represents 'Not Found'?",
+      "options": [
+        { "text": "200", "value": "a" },
+        { "text": "404", "value": "b" },
+        { "text": "500", "value": "c" },
+        { "text": "301", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 8,
+      "text": "What is the main difference between a process and a thread?",
+      "options": [
+        { "text": "Threads have independent memory", "value": "a" },
+        { "text": "Processes share memory by default", "value": "b" },
+        { "text": "Threads share memory, processes do not", "value": "c" },
+        { "text": "Threads are heavier than processes", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 9,
+      "text": "Which SQL command is used to remove a table and all its data?",
+      "options": [
+        { "text": "DELETE TABLE", "value": "a" },
+        { "text": "DROP TABLE", "value": "b" },
+        { "text": "TRUNCATE TABLE", "value": "c" },
+        { "text": "REMOVE TABLE", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 10,
+      "text": "Which data structure is used in recursion?",
+      "options": [
+        { "text": "Queue", "value": "a" },
+        { "text": "Stack", "value": "b" },
+        { "text": "Linked List", "value": "c" },
+        { "text": "Array", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 11,
+      "text": "What is the time complexity of binary search on a sorted array?",
+      "options": [
+        { "text": "O(n)", "value": "a" },
+        { "text": "O(log n)", "value": "b" },
+        { "text": "O(n log n)", "value": "c" },
+        { "text": "O(1)", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 12,
+      "text": "Which of the following is not a type of database?",
+      "options": [
+        { "text": "Relational", "value": "a" },
+        { "text": "Hierarchical", "value": "b" },
+        { "text": "Network", "value": "c" },
+        { "text": "Object-Oriented Programming", "value": "d" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 13,
+      "text": "Which command is used to check the current working directory in Linux?",
+      "options": [
+        { "text": "pwd", "value": "a" },
+        { "text": "ls", "value": "b" },
+        { "text": "cd", "value": "c" },
+        { "text": "dir", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 14,
+      "text": "Which HTTP method is idempotent?",
+      "options": [
+        { "text": "POST", "value": "a" },
+        { "text": "PUT", "value": "b" },
+        { "text": "PATCH", "value": "c" },
+        { "text": "CONNECT", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 15,
+      "text": "In networking, what does DNS stand for?",
+      "options": [
+        { "text": "Domain Name System", "value": "a" },
+        { "text": "Data Network Service", "value": "b" },
+        { "text": "Digital Name Server", "value": "c" },
+        { "text": "Direct Network System", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 16,
+      "text": "Which of these is a NoSQL database?",
+      "options": [
+        { "text": "MySQL", "value": "a" },
+        { "text": "PostgreSQL", "value": "b" },
+        { "text": "MongoDB", "value": "c" },
+        { "text": "SQLite", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 17,
+      "text": "Which is a correct way to declare a constant in Java?",
+      "options": [
+        { "text": "final int x = 10;", "value": "a" },
+        { "text": "const int x = 10;", "value": "b" },
+        { "text": "int const x = 10;", "value": "c" },
+        { "text": "immutable int x = 10;", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is not a cloud service model?",
+      "options": [
+        { "text": "IaaS", "value": "a" },
+        { "text": "PaaS", "value": "b" },
+        { "text": "CaaS", "value": "c" },
+        { "text": "SaaS", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 19,
+      "text": "Which is the best definition of recursion?",
+      "options": [
+        { "text": "Function that calls another function", "value": "a" },
+        { "text": "Function that calls itself", "value": "b" },
+        { "text": "Function without return type", "value": "c" },
+        { "text": "Function that loops indefinitely", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 20,
+      "text": "Which is a primary key constraint in databases?",
+      "options": [
+        { "text": "It can have duplicate values", "value": "a" },
+        { "text": "It cannot have NULL values", "value": "b" },
+        { "text": "It can be updated frequently", "value": "c" },
+        { "text": "It is optional for each table", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "role": "Frontend Developer",
+  "duration": 45,
+  "questions": [
+  {
+  "id": 1,
+  "text": "Which of the following CSS properties is used to control how content is wrapped inside an element?",
+  "options": [
+    { "text": "text-wrap", "value": "a" },
+    { "text": "word-wrap", "value": "b" },
+    { "text": "overflow-wrap", "value": "c" },
+    { "text": "white-space", "value": "d" }
+  ],
+  "correctAnswer": "c"
+},
+    {
+      "id": 2,
+      "text": "Which CSS property is used to change text color?",
+      "options": [
+        { "text": "font-color", "value": "a" },
+        { "text": "text-color", "value": "b" },
+        { "text": "color", "value": "c" },
+        { "text": "fg-color", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 3,
+      "text": "Which JavaScript method is used to add an element to the end of an array?",
+      "options": [
+        { "text": "push()", "value": "a" },
+        { "text": "pop()", "value": "b" },
+        { "text": "shift()", "value": "c" },
+        { "text": "unshift()", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 4,
+      "text": "Which attribute is used to provide an alternative text for an image in HTML?",
+      "options": [
+        { "text": "alt", "value": "a" },
+        { "text": "title", "value": "b" },
+        { "text": "src", "value": "c" },
+        { "text": "img", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 5,
+      "text": "Which CSS unit is relative to the font size of the element?",
+      "options": [
+        { "text": "px", "value": "a" },
+        { "text": "em", "value": "b" },
+        { "text": "%", "value": "c" },
+        { "text": "vh", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 6,
+      "text": "Which JavaScript keyword declares a block-scoped variable?",
+      "options": [
+        { "text": "var", "value": "a" },
+        { "text": "let", "value": "b" },
+        { "text": "const", "value": "c" },
+        { "text": "both b and c", "value": "d" }
+      ],
+      "correctAnswer": "d"
+    },
+    {
+      "id": 7,
+      "text": "What is the default display value of a <div> element?",
+      "options": [
+        { "text": "inline", "value": "a" },
+        { "text": "block", "value": "b" },
+        { "text": "inline-block", "value": "c" },
+        { "text": "none", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 8,
+      "text": "Which JavaScript function converts a string into an integer?",
+      "options": [
+        { "text": "parseInt()", "value": "a" },
+        { "text": "parseFloat()", "value": "b" },
+        { "text": "Number()", "value": "c" },
+        { "text": "String()", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 9,
+      "text": "Which CSS property is used to create space between elements?",
+      "options": [
+        { "text": "padding", "value": "a" },
+        { "text": "margin", "value": "b" },
+        { "text": "border", "value": "c" },
+        { "text": "gap", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 10,
+      "text": "Which event occurs when a user clicks on an HTML element?",
+      "options": [
+        { "text": "onmouseover", "value": "a" },
+        { "text": "onclick", "value": "b" },
+        { "text": "onchange", "value": "c" },
+        { "text": "onload", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 11,
+      "text": "Which HTML element is used to create a checkbox?",
+      "options": [
+        { "text": "<checkbox>", "value": "a" },
+        { "text": "<input type='checkbox'>", "value": "b" },
+        { "text": "<input type='text'>", "value": "c" },
+        { "text": "<check>", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 12,
+      "text": "Which CSS property controls the stacking order of elements?",
+      "options": [
+        { "text": "order", "value": "a" },
+        { "text": "z-index", "value": "b" },
+        { "text": "stack", "value": "c" },
+        { "text": "layer", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 13,
+      "text": "Which JavaScript method is used to select an element by its ID?",
+      "options": [
+        { "text": "getElementByClassName()", "value": "a" },
+        { "text": "querySelectorAll()", "value": "b" },
+        { "text": "getElementById()", "value": "c" },
+        { "text": "querySelector()", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 14,
+      "text": "Which CSS property is used to make text bold?",
+      "options": [
+        { "text": "font-weight", "value": "a" },
+        { "text": "font-style", "value": "b" },
+        { "text": "text-decoration", "value": "c" },
+        { "text": "font-bold", "value": "d" }
+      ],
+      "correctAnswer": "a"
+    },
+    {
+      "id": 15,
+      "text": "Which tag is used to include JavaScript in HTML?",
+      "options": [
+        { "text": "<js>", "value": "a" },
+        { "text": "<script>", "value": "b" },
+        { "text": "<javascript>", "value": "c" },
+        { "text": "<link>", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 16,
+      "text": "What is the difference between relative and absolute positioning in CSS?",
+      "options": [
+        { "text": "Relative positions element according to viewport", "value": "a" },
+        { "text": "Absolute positions element according to nearest positioned ancestor", "value": "b" },
+        { "text": "Relative is same as static", "value": "c" },
+        { "text": "Absolute ignores all parent elements", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 17,
+      "text": "Which HTML attribute is used to open a link in a new tab?",
+      "options": [
+        { "text": "new", "value": "a" },
+        { "text": "target='_blank'", "value": "b" },
+        { "text": "href-new", "value": "c" },
+        { "text": "tab='_new'", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 18,
+      "text": "Which of the following is not a semantic HTML element?",
+      "options": [
+        { "text": "<section>", "value": "a" },
+        { "text": "<article>", "value": "b" },
+        { "text": "<div>", "value": "c" },
+        { "text": "<header>", "value": "d" }
+      ],
+      "correctAnswer": "c"
+    },
+    {
+      "id": 19,
+      "text": "Which property in CSS Flexbox controls the alignment along the main axis?",
+      "options": [
+        { "text": "align-items", "value": "a" },
+        { "text": "justify-content", "value": "b" },
+        { "text": "align-content", "value": "c" },
+        { "text": "flex-direction", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    },
+    {
+      "id": 20,
+      "text": "Which method is used to prevent a form from submitting in JavaScript?",
+      "options": [
+        { "text": "stopPropagation()", "value": "a" },
+        { "text": "preventDefault()", "value": "b" },
+        { "text": "return false", "value": "c" },
+        { "text": "halt()", "value": "d" }
+      ],
+      "correctAnswer": "b"
+    }
+  ]
+}
